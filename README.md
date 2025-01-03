@@ -17,7 +17,7 @@ Características do problema e técnicas relevantes utilizadas:
 - Visualização de dados
 - Problema de classificação
 - Machine Learning clássico
-- Tratamento de dados para Machine Learning
+- Pré-processamento de dados para Machine Learning
 - One-hot encoding
 - Partição estratificada dos dados
 - Árvore de decisão e Random Forest
